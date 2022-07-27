@@ -11,4 +11,4 @@ Presente anche un piccolo file css per alcuni aspetti grafici, per non rendere i
 Grazie per l'attenzione e buon lavoro!
 
 Qui il link per vedere l'applicazione:
-https://raffaeleimperatore.github.io/JavaScriptBasics/
+https://raffaeleimperatore.github.io/JavaScript-Basics/
